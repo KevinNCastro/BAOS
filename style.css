@@ -29,6 +29,7 @@ body{
     justify-content: center;
     padding: 3rem;
     text-transform: uppercase;
+    border-bottom: solid 0.5rem black;
 }
 
 .nav{
@@ -49,8 +50,9 @@ body{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    border: solid 2px black;
     margin-top: 10rem;
+    border: solid 2px black;
+
 }
 
 .nav-footer{
@@ -124,12 +126,11 @@ p{
 
 /* Index */
 #title{ 
-    color: black;
+    color: white;
     font-style: normal;
     font-size: 10rem;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
-    background-color: #00ADB5;
 }
 
 #slogan{
@@ -139,7 +140,6 @@ p{
     font-family: 'Times New Roman', Times, serif;
     font-style: oblique;
     text-align: center;
-    background-color: #00ADB5;
 }
 
 .image-index{
@@ -147,6 +147,7 @@ p{
 }
 
 /* Institucional */
+
 
 .image-institucional{
   text-align: center; 
@@ -159,6 +160,7 @@ p{
     display: flex;
     justify-content: space-around;
     align-items: flex-end;
+    text-align: center;
     
 }
 
@@ -167,6 +169,7 @@ p{
     display: flex;
     justify-content: space-around;
     align-items: flex-end;
+    text-align: center;
 }
 
 
