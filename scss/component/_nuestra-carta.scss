@@ -1,0 +1,20 @@
+.carta-container{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+
+    .carta-categories{
+        width: 50%;
+    }
+    
+    .carta-plates{
+        display: inline-flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        align-content: center;  
+        flex-direction: row;    
+    }
+
+}
+
+

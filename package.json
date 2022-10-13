@@ -1,0 +1,23 @@
+{
+  "name": "preentrega-2-castro",
+  "version": "1.0.0",
+  "description": "I introduce myself...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinNCastro/BAOS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KevinNCastro/BAOS/issues"
+  },
+  "homepage": "https://github.com/KevinNCastro/BAOS#readme",
+  "devDependencies": {
+    "node-sass": "^7.0.3",
+    "nodemon": "^2.0.20"
+  }
+}
